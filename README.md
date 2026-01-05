@@ -3,5 +3,5 @@
 
 ellernate, kagekao + benevolent_day fictionkin :3
 
-(![](https://komarev.com/ghpvc/?username=subornsoul&style=plastic&color=grey)
+![](https://komarev.com/ghpvc/?username=subornsoul&style=plastic&color=grey)
 
